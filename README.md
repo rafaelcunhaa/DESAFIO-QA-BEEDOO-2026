@@ -8,8 +8,8 @@ O sistema possibilita que usuários adicionem novos cursos e visualizem os curso
 
 ## Principais fluxos da aplicação
 
-### Cadastrar Curos
-- Cadastro do curso pelo usuario, inserindo informações sobre o curso
+### Cadastrar Cursos
+- Usuário preenche as informações do curso no formulário de cadastro
 - Usuario envia o formulario feito
 - Curso é salvo no sistema
 
@@ -57,7 +57,7 @@ O sistema possibilita que usuários adicionem novos cursos e visualizem os curso
 ## Bugs encontrados
 
 Durante a execução dos testes foram identificados alguns problemas relacionados à validação de dados e funcionamento de funcionalidades do sistema.
-Os bugs encontrados estão documentados no main.
+Os bugs encontrados estão documentados abaixo neste repositório, contendo título, passos para reprodução, resultado atual, resultado esperado e severidade.
 
 
 
