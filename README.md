@@ -28,4 +28,4 @@ O sistema possibilita que usuários adicionem novos cursos e visualizem os curso
 
 ## Evidências dos testes
 
-[Link](https://docs.google.com/spreadsheets/d/1n2mia43C560ylDSUsmUFDLJ4xWSKecSItiII6V1rS68/edit?usp=sharing) para evidências
+[Link](https://docs.google.com/spreadsheets/d/1n2mia43C560ylDSUsmUFDLJ4xWSKecSItiII6V1rS68/edit?usp=sharing) para cenários de teste
