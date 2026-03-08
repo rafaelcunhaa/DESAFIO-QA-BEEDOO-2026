@@ -54,7 +54,10 @@ O sistema possibilita que usuários adicionem novos cursos e visualizem os curso
 ### CT06 - Cadastro de curso duplicado👎
 <img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/01dc302f-0497-48b8-b0b7-4322ce8738b2" />
 
+## Bugs encontrados
 
+Durante a execução dos testes foram identificados alguns problemas relacionados à validação de dados e funcionamento de funcionalidades do sistema.
+Os bugs encontrados estão documentados no main.
 
 
 
