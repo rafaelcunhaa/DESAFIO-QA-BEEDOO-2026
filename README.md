@@ -26,6 +26,35 @@ O sistema possibilita que usuários adicionem novos cursos e visualizem os curso
 - Comportamento da aplicação ao inserir dados inesperados
 - Persistência dos cursos cadastrados na listagem
 
-## Evidências dos testes
+## Cenários de Teste
 
 [Link](https://docs.google.com/spreadsheets/d/1n2mia43C560ylDSUsmUFDLJ4xWSKecSItiII6V1rS68/edit?usp=sharing) para cenários de teste
+
+## Evidências dos testes
+
+### CT01 - Cadastro de curso válido 👍
+<img width="1913" height="939" alt="image" src="https://github.com/user-attachments/assets/65c729c1-087d-49b3-9f6a-27e6df0c0aff" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/b0d7833a-6899-4854-bfe8-a9dae4b15347" />
+
+### CT02 - Cadastro sem informações👎
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/9902a17b-4b50-4dd3-b891-24fb78d123bf" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/a41b1a13-c813-43b2-8ee9-5abe649aaba9" />
+
+### CT03 - Ver curso na listagem👍
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/6e0269ae-56ab-4284-ac7f-c076529104b6" />
+
+
+### CT04 - Inserção de dados inválidos👎
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/d22eb129-8193-4e9f-9209-913e962806cf" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/03c4211c-4015-415a-9871-ac8dfcc89d28" />
+
+### CT05 - Exclusão de curso(tentativa no curso "Computação")👎
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/79d282fd-c81b-4239-887d-32ce0eff64f7" />
+
+### CT06 - Cadastro de curso duplicado👎
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/01dc302f-0497-48b8-b0b7-4322ce8738b2" />
+
+
+
+
+
