@@ -50,6 +50,7 @@ O sistema possibilita que usuários adicionem novos cursos e visualizem os curso
 
 ### CT05 - Exclusão de curso(tentativa no curso "Computação")👎
 <img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/79d282fd-c81b-4239-887d-32ce0eff64f7" />
+<img width="1124" height="946" alt="image" src="https://github.com/user-attachments/assets/a9d1dd99-ac71-44b0-b4a6-28deac97507b" />
 
 ### CT06 - Cadastro de curso duplicado👎
 <img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/01dc302f-0497-48b8-b0b7-4322ce8738b2" />
